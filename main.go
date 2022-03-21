@@ -2,8 +2,8 @@ package main
 
 import (
 	_ "api_practice/database"
-	//orm "api/database"
 	"api_practice/router"
+	//orm "api/database"
 )
 
 func main() {
